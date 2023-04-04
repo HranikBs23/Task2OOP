@@ -1,0 +1,15 @@
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\bin\Debug\net6.0\TASK2_OOP.exe
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\bin\Debug\net6.0\TASK2_OOP.deps.json
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\bin\Debug\net6.0\TASK2_OOP.runtimeconfig.json
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\bin\Debug\net6.0\TASK2_OOP.dll
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\bin\Debug\net6.0\TASK2_OOP.pdb
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.csproj.AssemblyReference.cache
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.AssemblyInfoInputs.cache
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.AssemblyInfo.cs
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.dll
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\refint\TASK2_OOP.dll
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.pdb
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\TASK2_OOP.genruntimeconfig.cache
+C:\Users\BS-1019\Desktop\Projects\TASK2_OOP\TASK2_OOP\obj\Debug\net6.0\ref\TASK2_OOP.dll
